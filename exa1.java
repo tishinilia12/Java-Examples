@@ -1,7 +1,4 @@
-//Scaner sc=new Scaner(System.in);
-//Character.getNumericValue(ch);
-//
-//
+//   http://acm.timus.ru/problem.aspx?space=1&num=1821
 import java.util.*;
 class Triple <T1 extends Comparable<T1>,
 T2 extends Comparable<T2>,T3 extends Comparable<T3>>
